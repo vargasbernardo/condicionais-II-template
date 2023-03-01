@@ -1,4 +1,4 @@
-# A013 - Template de Prática
+# Condicionais II - Template
 **Vamos utilizar esse repositório para as práticas da aula!**
 
 ## Instruções para baixar
